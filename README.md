@@ -8,3 +8,7 @@ https://stackoverflow.com/questions/2143460/how-to-convert-c-sharp-code-to-a-pow
 
 clignotement
 https://stackoverflow.com/questions/50525242/blinking-text-in-a-form-creating-by-powershell
+
+WooKey chiffrement disque USB (ANSSI)
+https://wookey-project.github.io/#
+
