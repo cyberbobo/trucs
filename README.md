@@ -14,3 +14,7 @@ https://wookey-project.github.io/#
 
 TrackAp : traceur pour vélo volé
 https://www.trackap.com/fr/
+
+RFID HF/UHF : normes, portées, etc...
+https://www.paragon-rfid.com/rfid-hf-uhf/
+
