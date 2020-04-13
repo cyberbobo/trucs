@@ -1,5 +1,8 @@
 # trucs
 
+MaJ et debug Over The Air pour ESP8266
+https://www.fais-le-toi-meme.fr/fr/electronique/tutoriel/esp8266-arduinoota-mise-a-jour-logiciel-esp8266-wifi
+
 apt-file search + windows form
 https://unix.stackexchange.com/questions/10685/how-do-i-install-monos-system-windows-forms-on-ubuntu/10696
 
